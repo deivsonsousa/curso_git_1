@@ -10,8 +10,6 @@ print(numeros.index(8))
 lista = [1, 2, 3, 4, 5,]
 print(lista[::2])
 
-"""
-
 #Deep Copy
 
 lista = [1, 2, 3]
@@ -25,6 +23,10 @@ nova.append(4)
 
 print(lista)
 print(nova)
+
+
+"""
+
 
 
 
